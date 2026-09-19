@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.json",
+  "include": ["./"],
+  "compilerOptions": {
+    "paths": {
+      "immutable": ["../type-definitions/immutable.d.ts"]
+    }
+  }
+}
