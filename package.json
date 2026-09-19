@@ -102,7 +102,7 @@
     "@rollup/plugin-json": "6.1.0",
     "@rollup/plugin-terser": "^1.0.0",
     "@rollup/plugin-typescript": "^12.1.2",
-    "@size-limit/esbuild-why": "^11.2.0",
+    "@size-limit/esbuild-why": "^14.0.0",
     "@size-limit/preset-small-lib": "^12.1.0",
     "@types/mdx": "^2.0.13",
     "@types/node": "^25.0.0",
